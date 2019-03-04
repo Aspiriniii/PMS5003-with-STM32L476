@@ -1,0 +1,8 @@
+PMS5003.frame = 28;
+		PMS5003.checksum = 163;
+		PMS5003.pm1p0 = 86;
+		PMS5003.pm2p5 = 125;
+		PMS5003.pm10 = 132;
+		PMS5003.pm1p0_ATM = 57;
+		PMS5003.pm2p5_ATM = 83;
+		PMS5003.pm10_ATM = 87;
